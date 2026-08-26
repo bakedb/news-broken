@@ -1,0 +1,4 @@
+baseURL = 'https://news.bkd.lol/'
+locale = 'en-us'
+title = 'BeanNet News'
+theme = 'newsroom'
