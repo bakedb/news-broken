@@ -29,5 +29,8 @@
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "tinacms": "^3.12.1"
+  },
+  "overrides": {
+    "@tinacms/schema-tools": "$@tinacms/schema-tools"
   }
 }
