@@ -21,7 +21,6 @@ export default defineConfig({
     tina: {
       mediaRoot: "images",
       publicFolder: "static",
-      publicFolderUrl: "https://bkd.lol/news",
     },
   },
   schema: {

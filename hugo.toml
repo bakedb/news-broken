@@ -2,3 +2,4 @@ baseURL = 'https://bkd.lol/news/'
 locale = 'en-us'
 title = 'BeanNet News'
 theme = 'newsroom'
+relativeURLs = true
