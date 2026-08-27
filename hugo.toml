@@ -1,4 +1,4 @@
-baseURL = 'https://news.bkd.lol/'
+baseURL = 'https://bkd.lol/news/'
 locale = 'en-us'
 title = 'BeanNet News'
 theme = 'newsroom'
