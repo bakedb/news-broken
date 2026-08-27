@@ -27,6 +27,8 @@ const Post: Collection = {
       type: "datetime",
       name: "date",
       label: "Date",
+      dateFormat: "YYYY-MM-DD",
+      timeFormat: "HH:mm",
     },
     {
       type: "string",
